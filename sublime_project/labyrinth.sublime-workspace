@@ -1,0 +1,1729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sourceR",
+				"sourceRectPoint	parameter"
+			],
+			[
+				"fill",
+				"beginFill	method"
+			],
+			[
+				"stopA",
+				"stopAllSound	window"
+			],
+			[
+				"featu",
+				"feature_trigger_condition	property"
+			],
+			[
+				"playa",
+				"playAnimation	window"
+			],
+			[
+				"bgmt",
+				"bgmTypeArr	let"
+			],
+			[
+				"youw",
+				"youWonText	let"
+			],
+			[
+				"pla",
+				"playSymbolAnimat	window"
+			],
+			[
+				"addb",
+				"addButterflyCurve	window"
+			],
+			[
+				"addbu",
+				"addButterflyLine	window"
+			],
+			[
+				"mul",
+				"multiNumSprite"
+			],
+			[
+				"animS",
+				"animSeq2	let"
+			],
+			[
+				"playanim",
+				"playAnimSeq	let"
+			],
+			[
+				"playAnim",
+				"playAnimSel	let"
+			],
+			[
+				"sets",
+				"setSpinStatusByCreditBet	method"
+			],
+			[
+				"upFra",
+				"upFrames"
+			],
+			[
+				"u",
+				"undefined	var"
+			],
+			[
+				"Sc",
+				"Scroller	alias"
+			],
+			[
+				"conn",
+				"connectServer	window"
+			],
+			[
+				"proo",
+				"prototype	{}"
+			],
+			[
+				"Creathe",
+				"CreateElement(nodeName, nodeAttributes, transform, viewBox, width, x, y, ...}, textValue)"
+			],
+			[
+				"defin",
+				"defineShapes	{}"
+			],
+			[
+				"QAC",
+				"QACallBackCount	property"
+			],
+			[
+				"QA",
+				"QAFeatureCallBack	property"
+			],
+			[
+				"ca",
+				"calcFeatureType	property"
+			],
+			[
+				"sel",
+				"selectFreegameMode	window"
+			],
+			[
+				"enal",
+				"enabled	window"
+			],
+			[
+				"disa",
+				"disabled	window"
+			],
+			[
+				"playbonn",
+				"playBonusWin	window"
+			],
+			[
+				"selen",
+				"selEndGroup	let"
+			],
+			[
+				"Sele",
+				"SelFreegame	alias"
+			],
+			[
+				"cashtex",
+				"cashTextBg	let"
+			],
+			[
+				"casht",
+				"cashTextBg	let"
+			],
+			[
+				"bonusg",
+				"bonusGameId"
+			],
+			[
+				"getElem",
+				"getElementsByTagName"
+			],
+			[
+				"start",
+				"_StartAndStop"
+			],
+			[
+				"length",
+				"length-5"
+			],
+			[
+				"base",
+				"base64Data	(?)"
+			],
+			[
+				"bgn",
+				"bgNames	[]"
+			],
+			[
+				"bgN",
+				"bgName"
+			],
+			[
+				"spec",
+				"specialEffectArr	(?)"
+			],
+			[
+				"spe",
+				"specialEffectArr	(?)"
+			],
+			[
+				"specialEffectA",
+				"specialEffectArr"
+			],
+			[
+				"router",
+				"routerMap"
+			],
+			[
+				"COMP",
+				"component"
+			],
+			[
+				"cach",
+				"cacheAu"
+			],
+			[
+				"cc",
+				"cacheAu	(?)"
+			],
+			[
+				"enable",
+				"enableOtherBtn()"
+			],
+			[
+				"dis",
+				"disableOtherBtn()"
+			],
+			[
+				"disab",
+				"disableOtherBtn"
+			],
+			[
+				"stopk",
+				"stopKeys	[]"
+			],
+			[
+				"bonus",
+				"bonusLoop"
+			],
+			[
+				"cac",
+				"cacheAu"
+			],
+			[
+				"fin",
+				"finish	window"
+			],
+			[
+				"removevi",
+				"removeVideoElement()"
+			],
+			[
+				"removev",
+				"removeVideoElement()"
+			],
+			[
+				"clearW",
+				"clearWinLine	window"
+			],
+			[
+				"fini",
+				"finishAnimation	window"
+			],
+			[
+				"atlsj",
+				"atlasJSONHash	method"
+			],
+			[
+				"atlasj",
+				"atlasJSONHash	method"
+			],
+			[
+				"updatec",
+				"updateCreditAndMoney"
+			],
+			[
+				"en",
+				"enabledCurrentBtn"
+			],
+			[
+				"enab",
+				"enabledCurrentBtn"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"last",
+				"last_name	(?)"
+			],
+			[
+				"con",
+				"Content-Type"
+			],
+			[
+				"crea",
+				"createWriteStream"
+			],
+			[
+				"valw",
+				"valWinNum"
+			],
+			[
+				"valbe",
+				"valBetNum"
+			],
+			[
+				"updatew",
+				"updateWinCredit"
+			],
+			[
+				"deau",
+				"default_denomination"
+			],
+			[
+				"valc",
+				"valCreditNum"
+			],
+			[
+				"symbo",
+				"symbol"
+			],
+			[
+				"mve",
+				"moveUp"
+			],
+			[
+				"anim",
+				"animations3	(?)"
+			],
+			[
+				"ani",
+				"animations3"
+			],
+			[
+				"anima",
+				"animations3	(?)"
+			],
+			[
+				"cree",
+				"currentFrame"
+			],
+			[
+				"scat",
+				"scatterShowArr	(?)"
+			],
+			[
+				"dela",
+				"delayNext"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"free",
+				"freegameNumGroup	(?)"
+			],
+			[
+				"destr",
+				"destroyItself"
+			],
+			[
+				"bro",
+				"brokenlineGroup"
+			],
+			[
+				"sticks",
+				"StickyScroller"
+			],
+			[
+				"scroll",
+				"scrollerNum	(?)"
+			],
+			[
+				"scrol",
+				"scrollersArr	(?)"
+			],
+			[
+				"sca",
+				"scatterShowArr	(?)"
+			],
+			[
+				"scatters",
+				"scatterShowNum	(?)"
+			],
+			[
+				"sp",
+				"spinTime	(?)"
+			],
+			[
+				"sym",
+				"symbolsList	{}"
+			],
+			[
+				"symb",
+				"symbolsList"
+			],
+			[
+				"dayg",
+				"dayGroupTween"
+			],
+			[
+				"plau",
+				"playOutAnimation"
+			],
+			[
+				"snowp",
+				"snowPositions	(?)"
+			],
+			[
+				"fins",
+				"findScatterNum(reelData)"
+			],
+			[
+				"scatter",
+				"scatterPosArr"
+			],
+			[
+				"foreca",
+				"forecaseFeatureAnim	(?)"
+			],
+			[
+				"fore",
+				"forecasefeature1"
+			],
+			[
+				"for",
+				"forecasefeature1	(?)"
+			],
+			[
+				"forec",
+				"forecasefeature2"
+			],
+			[
+				"dest",
+				"destroy"
+			],
+			[
+				"stick",
+				"stickySymbol	(?)"
+			],
+			[
+				"freez",
+				"freezeAnim	(?)"
+			],
+			[
+				"sco",
+				"scrollersArr	(?)"
+			],
+			[
+				"add",
+				"addTornado"
+			],
+			[
+				"ser",
+				"serverCONFIG	(?)"
+			],
+			[
+				"freega",
+				"freegameBg	(?)"
+			],
+			[
+				"freegame",
+				"freegameNumGroup"
+			],
+			[
+				"freegamet",
+				"freegameTimeText"
+			],
+			[
+				"bonu",
+				"bonusGamesConfig	(?)"
+			],
+			[
+				"bo",
+				"bonusGameId"
+			],
+			[
+				"syb",
+				"symbolsGroup"
+			],
+			[
+				"feat",
+				"featureId"
+			],
+			[
+				"fea",
+				"featureId"
+			],
+			[
+				"turntablet",
+				"turntableTweens"
+			],
+			[
+				"tu",
+				"turntableTweens11	(?)"
+			],
+			[
+				"turt",
+				"turntableTweens"
+			],
+			[
+				"symbol",
+				"symbolsList	{}"
+			],
+			[
+				"repla",
+				"replaceText"
+			],
+			[
+				"cha",
+				"changeBgVideoSource(videoSource)"
+			],
+			[
+				"TW",
+				"TW_BaseSun"
+			],
+			[
+				"timest",
+				"timesTextHeight"
+			],
+			[
+				"youwont",
+				"youwonTextHeight"
+			],
+			[
+				"frees",
+				"freespinsText	(?)"
+			],
+			[
+				"fre",
+				"freespinsText"
+			],
+			[
+				"ques",
+				"question2	(?)"
+			],
+			[
+				"video",
+				"videoCurrentTime	(?)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/rannaryang/Sites/minigame/labyrinth/webpack/utils.js",
+			"settings":
+			{
+				"buffer_size": 1350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rannaryang/Sites/minigame/labyrinth/webpack/dev-server.js",
+			"settings":
+			{
+				"buffer_size": 1918,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e m",
+				"Package Control: Remove Channel"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rannaryang/Sites/minigame/labyrinth",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack"
+	],
+	"file_history":
+	[
+		"/Users/rannaryang/Sites/minigame/labyrinth/.gitignore",
+		"/Users/rannaryang/Sites/minigame/labyrinth/README.md",
+		"/Users/rannaryang/Sites/minigame/labyrinth/tslint.json",
+		"/Users/rannaryang/Sites/minigame/labyrinth/tsconfig.json",
+		"/Users/rannaryang/Sites/minigame/labyrinth/gulpfile.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/dev-server.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/dev-client.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/webpack.base.conf.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/webpack.dev.conf.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/config.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/build.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/webpack.prod.conf.js",
+		"/Users/rannaryang/Sites/minigame/labyrinth/index.html",
+		"/Users/rannaryang/Sites/minigame/labyrinth/checkout.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/data/config.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/scroller.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/model/roller.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/model/rollerBase.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/present/presenter.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/operatingFloor.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/assets/images/animate/question.json",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/scrollerBase.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/symbolBase.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/borderLayer.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/animationLayer.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/states/preloader.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/package.json",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/webpack/webpack.dev.conf.js",
+		"/Users/rannaryang/Sites/git/lab/common/modules/model/video.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/animation/animation.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/shineEffect.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/helpPanel.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/borderLayerBase.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/present/presenterBase.ts",
+		"/Users/rannaryang/Sites/git/lab/common/plugins/utils.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/component/symbolAnimation.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/animation/coinSplash.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/operatingFloorBase.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/model/audio.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/model/server.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/states/scenes.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/webpack/utils.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/webpack/webpack.base.conf.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/assets/images/animate/bonus.json",
+		"/Users/rannaryang/Sites/git/lab/legand_of_cairo_igaming/checkout.js",
+		"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/checkout.js",
+		"/Users/rannaryang/Desktop/main.js",
+		"/Users/rannaryang/Sites/git/lab/legand_of_cairo_igaming/src/modules/view/operatingFloor.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/checkout.js",
+		"/Users/rannaryang/Sites/learn/audio/audio/feature_bgm_loop_rain.wav",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/helpPanelBase.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/animationLayerBase.ts",
+		"/Users/rannaryang/Sites/canvas实现遮罩效果/index.html",
+		"/Users/rannaryang/Sites/phaser-examples-master/examples/filters/vertical bars.js",
+		"/Users/rannaryang/Sites/phaser-examples-master/examples/index.html",
+		"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/webpack/config.js",
+		"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/src/states/scenes.ts",
+		"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/src/modules/view/operatingFloor.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/view/operatingFloor.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/present/presenter.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/view/scroller.ts",
+		"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/src/main.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/main.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/view/tips.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/tipsBase.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/view/symbol.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/view/animationLayer.ts",
+		"/Users/rannaryang/Sites/git/lab/galaxy_igaming/src/modules/view/animation/fiveOfKind.ts",
+		"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/static/config.json",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/index.html",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/css/main.css",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/main.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/present/playFlowBase.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/seqTween.ts",
+		"/Users/rannaryang/Downloads/share(2).md",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/symbol.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/backGroundLayer.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/assets/images/base/background.json",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/backGroundLayerBase.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/animation/bigWin.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/model/qa.ts",
+		"/Users/rannaryang/Sites/git/lab/common/data/configBase.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/regulation.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/view/tips.ts",
+		"/Users/rannaryang/Sites/git/lab/common/modules/view/regulationBase.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/config.json",
+		"/Users/rannaryang/Sites/todays_weather_igaming_1.0.5/js/game/modules/ui/select_freegame.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/assets/images/freegame/freegame.json",
+		"/Users/rannaryang/Sites/phaser-examples-master 2/examples/wip/as3tint.js",
+		"/Users/rannaryang/Sites/demo/main.js",
+		"/Users/rannaryang/Sites/demo/index.html",
+		"/Users/rannaryang/Sites/phaser-examples-master/examples/bitmapdata/alpha mask.js",
+		"/Users/rannaryang/Desktop/presenter.ts",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/assets/images/base/currency.json",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/modules/model/use.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src/main.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/webpack/config.js",
+		"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/static/assets/images/animate/bird.json",
+		"/Users/rannaryang/Sites/git/lab/weather/src/modules/view/operatingFloor.ts",
+		"/Users/rannaryang/Sites/git/lab/weather/src/modules/view/animationLayer.ts",
+		"/Users/rannaryang/Sites/git/lab/weather/src/modules/view/backGroundLayer.ts",
+		"/Users/rannaryang/Sites/git/lab/weather/src/modules/present/playFlow.ts",
+		"/Users/rannaryang/Sites/git/lab/weather/src/modules/present/presenter.ts",
+		"/Users/rannaryang/Sites/git/lab/weather/static/assets/images/base/lrGame.json",
+		"/Users/rannaryang/Sites/git/lab/weather/src/data/config.ts",
+		"/Users/rannaryang/Sites/git/lab/fruity_bites_igaming/js/game/data/config.js",
+		"/Users/rannaryang/Sites/git/lab/fruity_bites_igaming/js/game/modules/server.js",
+		"/Users/rannaryang/Sites/git/lab/fruity_bites_igaming/js/game/states/preloader.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/server.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/tornado_screen.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/scroller.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/stickyscroller.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/effect/lightning.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/control/spin_flow.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/socket.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/effect/freeze.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/control/spin.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/tips.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/background.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/states/preloader.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/bigwin.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/effect/symbolshining.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/data/config.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/symbol.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/congratulations.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/select_freegame.js",
+		"/Users/rannaryang/Sites/weather/src/modules/view/animationLayer.ts",
+		"/Users/rannaryang/Sites/weather/src/modules/view/backGroundLayer.ts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rannaryang/Sites/minigame/labyrinth",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/legand_of_cairo_igaming",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/flamenco_dance_igaming",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/src",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/phaser-examples-master/examples",
+			"/Users/rannaryang/Sites/phaser-examples-master",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/phaser-examples-master",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming",
+			"/Users/rannaryang/Sites/git/lab/weather",
+			"/Users/rannaryang/Sites/git/lab/king_of_pirate_igaming/js",
+			"/Users/rannaryang/Sites/git/lab/fruity_bites_igaming/js",
+			"/Users/rannaryang/Sites/git/lab/fruity_bites_igaming",
+			"/Users/rannaryang/Sites/git/lab/legand_of_cairo_igaming",
+			"/Users/rannaryang/Sites/git/lab/weather/src",
+			"/Users/rannaryang/Sites/git/lab/common",
+			"/Users/rannaryang/Sites/git/lab/weather",
+			"/Users/rannaryang/Sites/git/lab/todays_weather_igaming/js",
+			"/Users/rannaryang/Sites/todays_weather_igaming/js",
+			"/Users/rannaryang/Sites/todays_weather_igaming",
+			"/Users/rannaryang/Sites/todays_weather_igaming/js",
+			"/Users/rannaryang/Sites/todays_weather_igaming"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"utils",
+			"plugins",
+			"ba se",
+			"utils",
+			"dev-client",
+			"loadJs",
+			"Credentials",
+			"crypto.createCredentials",
+			"shineeff",
+			"shineeffect",
+			"200",
+			"animSeq2",
+			"                        let animSeq2 = [\nquestion",
+			"FStart",
+			"forcaseF",
+			"forcaseFEnd",
+			"playPM",
+			"playAnimation",
+			"drawborder",
+			"playAnimation",
+			"playMP",
+			"shineeffect",
+			"console.log",
+			"debugger",
+			"anchor",
+			"coin",
+			"borderlayer.cl",
+			"clear",
+			"drawBorder",
+			"animations",
+			"game.time.events",
+			"increaseWinTimerEvent",
+			"game.time.events.loop",
+			"01",
+			"loop",
+			"tween",
+			"loop",
+			"time.loop",
+			"event.loop",
+			"game.time.loop",
+			"game.event.time",
+			"daygroup",
+			"dayGroup",
+			"150",
+			"header",
+			"head",
+			"this.game.time",
+			"time",
+			"this.game.add",
+			"logtype",
+			"game.add.tween",
+			"drawLine",
+			"remove",
+			"drawBorder",
+			"drawLine",
+			"linesGroup",
+			"playLineTween",
+			"header",
+			"playMP",
+			"forcaseFStart",
+			"base_spin_stop",
+			"stopSound",
+			"bonusYouWonText",
+			"showRollWin",
+			"extra",
+			"tween",
+			"shineEffect",
+			"stickyLayer",
+			"animationLayer",
+			"playBgm",
+			"stopSound",
+			"stopAllBgm",
+			"playBgm",
+			"Audio.playBgm",
+			"playBgm",
+			"playwin",
+			"for_feature",
+			"feature_trigger_condition",
+			"playSound",
+			"bgmVolume",
+			"setBgmVolume",
+			"volume",
+			"volumn",
+			"level",
+			"isQuickStop",
+			"showbonusend",
+			"game.time.events.loop",
+			"show",
+			"loop",
+			"time.event",
+			"add.time",
+			"fillstyle",
+			"drawroundrect",
+			"drawRoundedRect",
+			"protected replaceText(msg: Msg) {\n        let text = msg.text;\n        let values = msg.values;\n        this.tipsText.clearColors();\n        for (let i = 0; i < values.length; i++) {\n            let key = `%${i}%`;\n            let pos = text.indexOf(key);\n            if (pos !== -1) {\n                text = text.replace(key, values[i]);\n                this.highlightText(this.tipsText, pos, values[i].length);\n            }\n        }\n        this.tipsText.visible = false;\n        this.tipsText.text = text;\n    }",
+			"replaceText",
+			"config.tipsMap.lines",
+			"lines",
+			"config.tipsMap.lines",
+			"playWin",
+			"lines",
+			"feature_standby",
+			"showbonusend",
+			"fadeOut",
+			"Audio.playBgm",
+			"playbgm",
+			"bringtotop",
+			"playSymbolAnimat",
+			"showwinall",
+			"borderLayer.draw",
+			"borderLayer",
+			"showSpecialWin",
+			"showWinAll",
+			"this.winlines",
+			"showSpecialWin",
+			"showAlarm",
+			"showAlarm\\",
+			"showScatter",
+			"spinAnalysis",
+			"spinResult",
+			"playbonus",
+			"playSpin",
+			"showWinAll",
+			"winAnalysis",
+			"playSpin",
+			"showwinline",
+			"backGroundLayer",
+			"scroller"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"window['$$debugWindow']",
+			"base(",
+			"var base = ",
+			"addChild",
+			"svg.CreateElement",
+			"var",
+			"",
+			"TGame.audio.stop",
+			"//TGame.audio.stop",
+			"beautyTrig",
+			"",
+			"Scimitar",
+			"",
+			"TDW",
+			"nowAnim",
+			"200",
+			"",
+			"animation",
+			"getSymbolsList",
+			"this.symbolsGroup",
+			"group",
+			".symbolsGroup.",
+			"",
+			"//debugger;",
+			"",
+			"Gunboat",
+			"this.freegameDlg",
+			"TGame.FreegameSelect",
+			"Effects.Free",
+			"\"w\":1000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/rannaryang/Sites/minigame/labyrinth/webpack/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/rannaryang/Sites/minigame/labyrinth/webpack/dev-server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1404,
+								1432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "labyrinth.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulpfile.js",
+				"gulpfile.js"
+			],
+			[
+				"backgroundlayer",
+				"todays_weather_igaming/src/modules/view/backGroundLayer.ts"
+			],
+			[
+				"preloader.ts",
+				"todays_weather_igaming/src/states/preloader.ts"
+			],
+			[
+				"configbase.ts",
+				"common/data/configBase.ts"
+			],
+			[
+				"webpack",
+				"todays_weather_igaming/webpack/webpack.dev.conf.js"
+			],
+			[
+				"package.json",
+				"todays_weather_igaming/package.json"
+			],
+			[
+				"animationla",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"config.ts",
+				"todays_weather_igaming/src/data/config.ts"
+			],
+			[
+				"animationlayer",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"question.js",
+				"todays_weather_igaming/static/assets/images/animate/question.json"
+			],
+			[
+				"operatifl",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"animationlayer.ts",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"scroller.ts",
+				"todays_weather_igaming/src/modules/view/scroller.ts"
+			],
+			[
+				"rollerbase",
+				"common/modules/model/rollerBase.ts"
+			],
+			[
+				"roller.ts",
+				"todays_weather_igaming/src/modules/model/roller.ts"
+			],
+			[
+				"operatinf",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"animationl",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"borderlayer",
+				"todays_weather_igaming/src/modules/view/borderLayer.ts"
+			],
+			[
+				"symbol",
+				"common/modules/view/component/symbolAnimation.ts"
+			],
+			[
+				"borderlayer.ts",
+				"todays_weather_igaming/src/modules/view/borderLayer.ts"
+			],
+			[
+				"operatingfloor",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"helpp",
+				"todays_weather_igaming/src/modules/view/helpPanel.ts"
+			],
+			[
+				"animation",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"animation.ts",
+				"common/modules/view/animation/animation.ts"
+			],
+			[
+				"shineeff",
+				"todays_weather_igaming/src/modules/view/shineEffect.ts"
+			],
+			[
+				"borderla",
+				"todays_weather_igaming/src/modules/view/borderLayer.ts"
+			],
+			[
+				"operat",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"operatinfl",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"audio.ts",
+				"common/modules/model/audio.ts"
+			],
+			[
+				"utils.js",
+				"todays_weather_igaming/webpack/utils.js"
+			],
+			[
+				"utils",
+				"todays_weather_igaming/webpack/utils.js"
+			],
+			[
+				"scenes.ts",
+				"todays_weather_igaming/src/states/scenes.ts"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"borderlayerbase",
+				"common/modules/view/borderLayerBase.ts"
+			],
+			[
+				"animationlae",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"help.ts",
+				"todays_weather_igaming/src/modules/view/helpPanel.ts"
+			],
+			[
+				"wepack.base",
+				"todays_weather_igaming/webpack/webpack.base.conf.js"
+			],
+			[
+				"operati",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"symbolanim",
+				"common/modules/view/component/symbolAnimation.ts"
+			],
+			[
+				"bonus.json",
+				"todays_weather_igaming/static/assets/images/animate/bonus.json"
+			],
+			[
+				"symbolani",
+				"common/modules/view/component/symbolAnimation.ts"
+			],
+			[
+				"animatinolayer",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"shineef",
+				"todays_weather_igaming/src/modules/view/shineEffect.ts"
+			],
+			[
+				"check",
+				"checkout.js"
+			],
+			[
+				"shineeffect.ts",
+				"todays_weather_igaming/src/modules/view/shineEffect.ts"
+			],
+			[
+				"animaitonla",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"checkout.js",
+				"todays_weather_igaming/checkout.js"
+			],
+			[
+				"chekcou",
+				"legand_of_cairo_igaming/checkout.js"
+			],
+			[
+				"checkou.",
+				"checkout.js"
+			],
+			[
+				"opera",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"presenter",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"op",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"presenter.ts",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"pre",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"scenest.s",
+				"legand_of_cairo_igaming/src/states/scenes.ts"
+			],
+			[
+				"tipbase",
+				"common/modules/view/tipsBase.ts"
+			],
+			[
+				"tips",
+				"legand_of_cairo_igaming/src/modules/view/tips.ts"
+			],
+			[
+				"operatingfloor.ts",
+				"flamenco_dance_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"presenterbase",
+				"common/modules/present/presenterBase.ts"
+			],
+			[
+				"configbase",
+				"common/data/configBase.ts"
+			],
+			[
+				"operting",
+				"src/modules/view/operatingFloor.ts"
+			],
+			[
+				"symbolan",
+				"common/modules/view/component/symbolAnimation.ts"
+			],
+			[
+				"helppanelbase",
+				"common/modules/view/helpPanelBase.ts"
+			],
+			[
+				"helppanelba",
+				"common/modules/view/helpPanelBase.ts"
+			],
+			[
+				"server.ts",
+				"common/modules/model/server.ts"
+			],
+			[
+				"animationly",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"index.html",
+				"examples/index.html"
+			],
+			[
+				"qa.ts",
+				"todays_weather_igaming/src/modules/model/qa.ts"
+			],
+			[
+				"main",
+				"src/main.ts"
+			],
+			[
+				"tipbase.ts",
+				"common/modules/view/tipsBase.ts"
+			],
+			[
+				"config.js",
+				"flamenco_dance_igaming/webpack/config.js"
+			],
+			[
+				"main.ts",
+				"src/main.ts"
+			],
+			[
+				"scrollerbase",
+				"common/modules/view/scrollerBase.ts"
+			],
+			[
+				"scroller",
+				"galaxy_igaming/src/modules/view/scroller.ts"
+			],
+			[
+				"scrolerbase",
+				"common/modules/view/scrollerBase.ts"
+			],
+			[
+				"operatingfloo",
+				"galaxy_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"prsenterba",
+				"common/modules/present/presenterBase.ts"
+			],
+			[
+				"tipsbase",
+				"common/modules/view/tipsBase.ts"
+			],
+			[
+				"tips.ts",
+				"galaxy_igaming/src/modules/view/tips.ts"
+			],
+			[
+				"tipsbase.ts",
+				"common/modules/view/tipsBase.ts"
+			],
+			[
+				"symbolbase",
+				"common/modules/view/symbolBase.ts"
+			],
+			[
+				"symbol.ts",
+				"galaxy_igaming/src/modules/view/symbol.ts"
+			],
+			[
+				"fiveo",
+				"galaxy_igaming/src/modules/view/animation/fiveOfKind.ts"
+			],
+			[
+				"persenter.ts",
+				"src/modules/present/presenter.ts"
+			],
+			[
+				"pic3.json",
+				"todays_weather_igaming/static/assets/images/animate/pic3.json"
+			],
+			[
+				"main.css",
+				"todays_weather_igaming/static/css/main.css"
+			],
+			[
+				"backgroundlayerba",
+				"common/modules/view/backGroundLayerBase.ts"
+			],
+			[
+				"operatingfl",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"presenterba",
+				"common/modules/present/presenterBase.ts"
+			],
+			[
+				"presente",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"serv",
+				"common/modules/model/server.ts"
+			],
+			[
+				"sudio.ts",
+				"common/modules/model/audio.ts"
+			],
+			[
+				"seqtween.ts",
+				"todays_weather_igaming/src/modules/view/seqTween.ts"
+			],
+			[
+				"servet.",
+				"common/modules/model/server.ts"
+			],
+			[
+				"seqtween",
+				"todays_weather_igaming/src/modules/view/seqTween.ts"
+			],
+			[
+				"operating",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"anima",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"operatingfloora",
+				"common/modules/view/operatingFloorBase.ts"
+			],
+			[
+				"symbola",
+				"common/modules/view/symbolBase.ts"
+			],
+			[
+				"backgroundlayerbase",
+				"common/modules/view/backGroundLayerBase.ts"
+			],
+			[
+				"bigwin",
+				"common/modules/view/animation/bigWin.ts"
+			],
+			[
+				"oper",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"presne",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"coinsp",
+				"common/modules/view/animation/coinSplash.ts"
+			],
+			[
+				"animationlayerba",
+				"common/modules/view/animationLayerBase.ts"
+			],
+			[
+				"animationlayerbase",
+				"common/modules/view/animationLayerBase.ts"
+			],
+			[
+				"scroller.",
+				"todays_weather_igaming/src/modules/view/scroller.ts"
+			],
+			[
+				"config.json",
+				"todays_weather_igaming/static/config.json"
+			],
+			[
+				"regulationbase",
+				"common/modules/view/regulationBase.ts"
+			],
+			[
+				"regulation.ts",
+				"todays_weather_igaming/src/modules/view/regulation.ts"
+			],
+			[
+				"freegame.json",
+				"todays_weather_igaming/static/assets/images/freegame/freegame.json"
+			],
+			[
+				"select",
+				"todays_weather_igaming_1.0.5/js/game/modules/ui/select_freegame.js"
+			],
+			[
+				"freegame.",
+				"todays_weather_igaming_1.0.5/js/game/modules/ui/select_freegame.js"
+			],
+			[
+				"con",
+				"todays_weather_igaming/src/data/config.ts"
+			],
+			[
+				"index.htm",
+				"phaser-examples-master/examples/index.html"
+			],
+			[
+				"bigwin.ts",
+				"common/modules/view/animation/bigWin.ts"
+			],
+			[
+				"prese",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"animatinola",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"presenter.",
+				"todays_weather_igaming/src/modules/present/presenter.ts"
+			],
+			[
+				"preesenterba",
+				"common/modules/present/presenterBase.ts"
+			],
+			[
+				"curren",
+				"todays_weather_igaming/static/assets/images/base/currency.json"
+			],
+			[
+				"animatonlayer",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"operatingfloorbase",
+				"common/modules/view/operatingFloorBase.ts"
+			],
+			[
+				"opeartingfloor",
+				"todays_weather_igaming/src/modules/view/operatingFloor.ts"
+			],
+			[
+				"opeartingfloorbase",
+				"common/modules/view/operatingFloorBase.ts"
+			],
+			[
+				"persenter",
+				"common/modules/present/presenterBase.ts"
+			],
+			[
+				"animal",
+				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"backgroundlay",
+				"todays_weather_igaming/src/modules/view/backGroundLayer.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/git/lab/todays_weather_igaming/todays_weather_igaming.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
