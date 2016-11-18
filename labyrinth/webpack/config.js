@@ -13,7 +13,7 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../build/web/www'),
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
-    port: 8082,
+    port: 6060,
     proxyTable: {}
   }
 }

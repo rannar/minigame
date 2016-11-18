@@ -519,91 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/index.html",
-			"settings":
-			{
-				"buffer_size": 743,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/main.ts",
-			"settings":
-			{
-				"buffer_size": 749,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/currentconditionsdisplay.ts",
-			"settings":
-			{
-				"buffer_size": 741,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/weatherdata.ts",
-			"settings":
-			{
-				"buffer_size": 1030,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/compound/Quackable.ts",
-			"settings":
-			{
-				"buffer_size": 37,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "export default class MallardDuck implements Quackable {\n    \n}\n",
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/compound/mallardduck.ts",
-			"file_size": 59,
-			"file_write_time": 131233030190000000,
-			"settings":
-			{
-				"buffer_size": 63,
-				"line_ending": "Unix",
-				"name": "MallardDuck"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/observer.js",
-			"settings":
-			{
-				"buffer_size": 50,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/subject.ts",
-			"settings":
-			{
-				"buffer_size": 184,
-				"line_ending": "Unix",
-				"name": "subject.ts"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/displayelement.ts",
-			"settings":
-			{
-				"buffer_size": 76,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/observer.ts",
-			"settings":
-			{
-				"buffer_size": 111,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -666,16 +581,9 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rannaryang/Sites/minigame/labyrinth",
-		"/Users/rannaryang/Sites/minigame/labyrinth/src",
-		"/Users/rannaryang/Sites/minigame/labyrinth/src/design",
-		"/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer",
-		"/Users/rannaryang/Sites/minigame/labyrinth/src/modules"
 	],
 	"file_history":
 	[
-		"/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/currentconditionsdisplay.ts",
-		"/Users/rannaryang/Sites/minigame/labyrinth/src/modules/model/labyrinthImp.ts",
 		"/Users/rannaryang/Sites/minigame/labyrinth/src/modules/present/levelimp.ts",
 		"/Users/rannaryang/Sites/minigame/labyrinth/gulpfile.js",
 		"/Users/rannaryang/Sites/minigame/labyrinth/webpack/dev-server.js",
@@ -801,11 +709,13 @@
 		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/tips.js",
 		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/background.js",
 		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/states/preloader.js",
-		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/bigwin.js"
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/ui/bigwin.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/modules/effect/symbolshining.js",
+		"/Users/rannaryang/Sites/todays_weather_igaming/js/game/data/config.js"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -947,7 +857,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"    ",
 			"8082",
 			"utils",
 			"plugins",
@@ -1074,7 +983,8 @@
 			"showWinAll",
 			"winAnalysis",
 			"playSpin",
-			"showwinline"
+			"showwinline",
+			"backGroundLayer"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1122,318 +1032,8 @@
 	"groups":
 	[
 		{
-			"selected": 7,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 743,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": true,
-								"indentSize": 2,
-								"tabSize": 2
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/main.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 749,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								668,
-								668
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": true,
-								"indentSize": 4,
-								"tabSize": 4
-							},
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/currentconditionsdisplay.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 741,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								337,
-								337
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/weatherdata.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1030,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								471,
-								471
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/compound/Quackable.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 37,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								34,
-								34
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/compound/mallardduck.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 63,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								60,
-								60
-							]
-						],
-						"settings":
-						{
-							"auto_name": "MallardDuck",
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/observer.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 50,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/subject.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 184,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								34,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "subject.ts",
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/displayelement.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 76,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/rannaryang/Sites/minigame/labyrinth/src/design/observer/observer.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								82,
-								82
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1485,7 +1085,7 @@
 		"height": 100.0
 	},
 	"pinned_build_system": "",
-	"project": "labyrinth.sublime-project",
+	"project": "untitled.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -1497,10 +1097,6 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"curre",
-				"src/design/observer/currentconditionsdisplay.ts"
-			],
 			[
 				"gulpfile.js",
 				"gulpfile.js"
@@ -2008,6 +1604,10 @@
 			[
 				"animal",
 				"todays_weather_igaming/src/modules/view/animationLayer.ts"
+			],
+			[
+				"backgroundlay",
+				"todays_weather_igaming/src/modules/view/backGroundLayer.ts"
 			]
 		],
 		"width": 0.0
@@ -2042,7 +1642,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 373.0,
+	"side_bar_width": 192.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

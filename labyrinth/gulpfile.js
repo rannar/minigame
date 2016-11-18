@@ -22,4 +22,4 @@ gulp.task('source', shell.task([
 
 // default build for web
 gulp.task('default', ['common', 'source', 'build']);
-gulp.task('dev', ['source', 'dev-server']);
+gulp.task('dev', ['dev-server']);

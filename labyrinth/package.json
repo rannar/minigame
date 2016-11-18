@@ -2,7 +2,7 @@
   "name": "labyrinth",
   "version": "1.0.0",
   "description": "labyrinth minigame",
-  "main": "index.js",
+  "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,9 @@
     "minigame"
   ],
   "author": "rannaryang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "force-case-sensitivity-webpack-plugin": "^0.2.1",
+    "phaser": "^2.6.2"
+  }
 }
